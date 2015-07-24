@@ -1,6 +1,6 @@
 # ShareREC for Android
 
-* website -- http://mob.com
+* website --- http://mob.com
 * download url -- http://rec.mob.com/Download
 * documents
 	* Cocos2d-x -- http://wiki.mob.com/sharerec-for-android-cocos2d-x-%E5%BF%AB%E9%80%9F%E9%9B%86%E6%88%90/
